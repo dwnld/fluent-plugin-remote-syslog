@@ -18,6 +18,6 @@ Gem::Specification.new do |gem|
 
   gem.add_dependency "fluentd", "~> 0.10.45"
   gem.add_dependency "fluent-mixin-config-placeholders", "~> 0.2.0"
-  gem.add_dependency "syslog_protocol"
-  gem.add_development_dependency "rake", ">= 0.9.2"
+  gem.add_dependency "syslog_protocol", "~> 0.9.2"
+  gem.add_development_dependency "rake", "~> 0.9.2"
 end
