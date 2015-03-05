@@ -6,7 +6,7 @@ Gem::Specification.new do |gem|
   gem.description = "Output plugin for streaming logs out to a remote syslog"
   gem.homepage    = "https://github.com/docebo/fluent-plugin-remote-syslog"
   gem.summary     = %q{gem.description}
-  gem.version     = "1.0"
+  gem.version     = "1.0.0"
   gem.authors     = ["Andrea Spoldi"]
   gem.email       = "devops@docebo.com"
   gem.has_rdoc    = false
